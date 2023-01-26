@@ -1,0 +1,7 @@
+Unregistered DLLs - None
+
+Registered DLLs:
+{0ECD9B60-23AA-11D0-B351-00A0C9055D8E} v6.0	[MSHierarchicalFlexGridLib]	"C:\Windows\SysWow64\MShflxgd.ocx"
+
+{00020430-0000-0000-C000-000000000046} v2.0	[stdole]	"C:\Windows\SysWOW64\stdole2.tlb"
+{2A75196C-D9EB-4129-B803-931327F72D5C} v2.8	[ADODB]	"C:\Program Files (x86)\Common Files\System\ado\msado28.tlb"
